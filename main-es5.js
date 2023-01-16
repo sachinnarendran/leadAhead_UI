@@ -127,7 +127,7 @@
         selectors: [["app-aboutus"]],
         decls: 79,
         vars: 2,
-        consts: [[1, "container"], [1, "about-content"], [1, "centered-content"], [1, "specialisation"], [1, "leadership-skill"], [1, "icon-div"], ["id", "icon-img", "src", "../../assets/images/leadership-icon.png"], [1, "specialisation-heading"], [1, "specialisation-description"], [1, "communication-skill"], ["id", "icon-img", "src", "../../assets/images/communication-icon.png"], [1, "behavioral-skill"], ["id", "icon-img", "src", "../../assets/images/behaviour-icon.png"], [1, "student-skill"], ["id", "icon-img", "src", "../../assets/images/students-icon.jpg"], [1, "left-side", "testClass"], ["id", "team-img", "src", "../../assets/images/meet-the-team.jpg"], [1, "right-side", "testClass"], [1, "meet-team-text"], ["id", "team-more"], ["id", "know-more", 3, "routerLink"], [1, "client-carousel"], ["id", "client-heading"], [1, "mySwiper", 3, "config"], [1, "swiper-wrapper"], [1, "swiper-slide"], ["src", "../../assets/images/EssarLogo.svg.png"], ["src", "../../assets/images/indusind.png"], ["src", "../../assets/images/modi-prop.jpeg"], ["src", "../../assets/images/Oracle-logo.jpeg"], ["src", "../../assets/images/Osmania-Univeristy.jpeg"], ["src", "../../assets/images/piramal-vector-logo.png"], ["src", "../../assets/images/suzuki-logo.png"], ["src", "../../assets/images/Gati-logo.png"], [1, "swiper-pagination"], [1, "swiper-button-next"], [1, "swiper-button-prev"]],
+        consts: [[1, "container"], [1, "about-content"], [1, "centered-content"], [1, "specialisation"], [1, "leadership-skill"], [1, "icon-div"], ["id", "icon-img", "src", "assets/images/leadership-icon.png"], [1, "specialisation-heading"], [1, "specialisation-description"], [1, "communication-skill"], ["id", "icon-img", "src", "assets/images/communication-icon.png"], [1, "behavioral-skill"], ["id", "icon-img", "src", "assets/images/behaviour-icon.png"], [1, "student-skill"], ["id", "icon-img", "src", "assets/images/students-icon.jpg"], [1, "left-side", "testClass"], ["id", "team-img", "src", "assets/images/meet-the-team.jpg"], [1, "right-side", "testClass"], [1, "meet-team-text"], ["id", "team-more"], ["id", "know-more", 3, "routerLink"], [1, "client-carousel"], ["id", "client-heading"], [1, "mySwiper", 3, "config"], [1, "swiper-wrapper"], [1, "swiper-slide"], ["src", "assets/images/EssarLogo.svg.png"], ["src", "assets/images/indusind.png"], ["src", "assets/images/modi-prop.jpeg"], ["src", "assets/images/Oracle-logo.jpeg"], ["src", "assets/images/Osmania-Univeristy.jpeg"], ["src", "assets/images/piramal-vector-logo.png"], ["src", "assets/images/suzuki-logo.png"], ["src", "assets/images/Gati-logo.png"], [1, "swiper-pagination"], [1, "swiper-button-next"], [1, "swiper-button-prev"]],
         template: function AboutusComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -844,7 +844,7 @@
         selectors: [["app-contact"]],
         decls: 28,
         vars: 0,
-        consts: [[1, "banner", "banner-bg"], [1, "container"], [1, "banner-heading"], [1, "contact-div"], [1, "phone-info"], ["src", "../../assets/images/contact-icon.png", 1, "img-icon"], [1, "contact-heading"], [1, "training-para"], [1, "email-info"], ["src", "../../assets/images/mail-icon.png", 1, "img-icon"], [1, "email-heading"]],
+        consts: [[1, "banner", "banner-bg"], [1, "container"], [1, "banner-heading"], [1, "contact-div"], [1, "phone-info"], ["src", "assets/images/contact-icon.png", 1, "img-icon"], [1, "contact-heading"], [1, "training-para"], [1, "email-info"], ["src", "assets/images/mail-icon.png", 1, "img-icon"], [1, "email-heading"]],
         template: function ContactComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -1111,7 +1111,7 @@
         selectors: [["app-homecomponent"]],
         decls: 25,
         vars: 4,
-        consts: [[1, "home-carousel"], [1, "mySwiper", 3, "config"], [1, "swiper-wrapper"], [1, "swiper-slide"], ["src", "../../assets/images/Ahead.jpg"], [1, "carousel-slide-text"], ["id", "know-more", 3, "routerLink"], ["src", "../../assets/images/LeadAhead1.jpg"], ["src", "../../assets/images/LeadAhead2.jpg"], [1, "swiper-pagination"]],
+        consts: [[1, "home-carousel"], [1, "mySwiper", 3, "config"], [1, "swiper-wrapper"], [1, "swiper-slide"], ["src", "assets/images/Ahead.jpg"], [1, "carousel-slide-text"], ["id", "know-more", 3, "routerLink"], ["src", "assets/images/LeadAhead1.jpg"], ["src", "assets/images/LeadAhead2.jpg"], [1, "swiper-pagination"]],
         template: function HomecomponentComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -1273,7 +1273,7 @@
         selectors: [["app-programme"]],
         decls: 41,
         vars: 0,
-        consts: [[1, "banner", "banner-bg"], [1, "container"], [1, "programme-heading"], [1, "training-info"], [1, "training-info-steps"], [1, "training-step"], ["src", "../../assets/images/listening-icon.png", 1, "img-icon"], [1, "training-heading"], [1, "training-para"], ["src", "../../assets/images/strategy-icon.png", 1, "img-icon"], ["src", "../../assets/images/execution-icon.png", 1, "img-icon"], ["src", "../../assets/images/evaluation-icon.png", 1, "img-icon"]],
+        consts: [[1, "banner", "banner-bg"], [1, "container"], [1, "programme-heading"], [1, "training-info"], [1, "training-info-steps"], [1, "training-step"], ["src", "assets/images/listening-icon.png", 1, "img-icon"], [1, "training-heading"], [1, "training-para"], ["src", "assets/images/strategy-icon.png", 1, "img-icon"], ["src", "assets/images/execution-icon.png", 1, "img-icon"], ["src", "assets/images/evaluation-icon.png", 1, "img-icon"]],
         template: function ProgrammeComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -1606,7 +1606,7 @@
         selectors: [["app-navbar"]],
         decls: 12,
         vars: 3,
-        consts: [["color", "primary"], ["src", "../../../assets/images/leadahead-logo.png"], [1, "example-spacer"], ["fxHide.xs", "", 3, "routerLink", 4, "ngFor", "ngForOf"], ["mat-icon-button", "", "fxHide", "", "fxShow.xs", "", 3, "matMenuTriggerFor"], ["color", "white"], ["dropMenu", "matMenu"], [4, "ngFor", "ngForOf"], ["fxHide.xs", "", 3, "routerLink"], [1, "menu-item"], ["mat-menu-item", "", 3, "routerLink"], [1, "mr"]],
+        consts: [["color", "primary"], ["src", "assets/images/leadahead-logo.png"], [1, "example-spacer"], ["fxHide.xs", "", 3, "routerLink", 4, "ngFor", "ngForOf"], ["mat-icon-button", "", "fxHide", "", "fxShow.xs", "", 3, "matMenuTriggerFor"], ["color", "white"], ["dropMenu", "matMenu"], [4, "ngFor", "ngForOf"], ["fxHide.xs", "", 3, "routerLink"], [1, "menu-item"], ["mat-menu-item", "", 3, "routerLink"], [1, "mr"]],
         template: function NavbarComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
@@ -1768,7 +1768,7 @@
         },
         decls: 68,
         vars: 1,
-        consts: [[1, "team-heading"], [1, "team-container"], [1, "narenInfo"], [1, "photo"], ["id", "photo", "src", "../../assets/images/narendran-photo.jfif"], [1, "designation"], ["id", "about"], [1, "detailedDescription"], [1, "testimonial"], [1, "mySwiper", 3, "config"], ["newSwiper", ""], [1, "swiper-wrapper"], [1, "swiper-slide"], ["src", "../../assets/images/modi-properties-logo.png", 1, "testimonial-img"], ["src", "../../assets/images/semcom-school.png", 1, "testimonial-img"], ["src", "../../assets/images/EssarLogo.svg.png", 1, "testimonial-img"], ["src", "../../assets/images/KILA-Logo.png", 1, "testimonial-img"], [1, "swiper-pagination"], [1, "swiper-button-next"], [1, "swiper-button-prev"]],
+        consts: [[1, "team-heading"], [1, "team-container"], [1, "narenInfo"], [1, "photo"], ["id", "photo", "src", "assets/images/narendran-photo.jfif"], [1, "designation"], ["id", "about"], [1, "detailedDescription"], [1, "testimonial"], [1, "mySwiper", 3, "config"], ["newSwiper", ""], [1, "swiper-wrapper"], [1, "swiper-slide"], ["src", "assets/images/modi-properties-logo.png", 1, "testimonial-img"], ["src", "assets/images/semcom-school.png", 1, "testimonial-img"], ["src", "assets/images/EssarLogo.svg.png", 1, "testimonial-img"], ["src", "assets/images/KILA-Logo.png", 1, "testimonial-img"], [1, "swiper-pagination"], [1, "swiper-button-next"], [1, "swiper-button-prev"]],
         template: function TeamComponent_Template(rf, ctx) {
           if (rf & 1) {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
